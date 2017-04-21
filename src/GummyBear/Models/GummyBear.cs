@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace GummyBear.Models
+namespace GummyBearApp.Models
 {
     [Table("GummyBear")]
     public class GummyBear

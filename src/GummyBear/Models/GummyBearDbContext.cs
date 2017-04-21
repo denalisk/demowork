@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using GummyBear.Models;
+using GummyBearApp.Models;
 
-namespace GummyBear.Models
+namespace GummyBearApp.Models
 {
     public class GummyBearDbContext : DbContext
     {

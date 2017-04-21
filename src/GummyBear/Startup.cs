@@ -10,9 +10,9 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
-using GummyBear.Models;
+using GummyBearApp.Models;
 
-namespace GummyBear
+namespace GummyBearApp
 {
     public class Startup
     {

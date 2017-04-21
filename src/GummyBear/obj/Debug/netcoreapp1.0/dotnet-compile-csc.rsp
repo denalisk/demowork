@@ -194,7 +194,10 @@
 -resource:"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\obj\Debug\netcoreapp1.0\GummyBeardotnet-compile.deps.json",GummyBear.deps.json
 "C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Program.cs"
 "C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Startup.cs"
-"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Controllers\GummyBearController.cs"
 "C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Controllers\HomeController.cs"
+"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Controllers\Products.cs"
+"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Migrations\20170421004835_Initial.cs"
+"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Migrations\20170421004835_Initial.Designer.cs"
+"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Migrations\GummyBearDbContextModelSnapshot.cs"
 "C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Models\GummyBear.cs"
 "C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GummyBear\src\GummyBear\Models\GummyBearDbContext.cs"
